@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Salut monde
+=======
+Salut monde
+>>>>>>> 548a636998bae570bed6c768e29e8ee2a854b542
